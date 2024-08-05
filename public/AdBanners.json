@@ -1,0 +1,32 @@
+{
+    "banners": [
+      {
+        "id":1,
+        "title": "Special Summer Sale!",
+        "description": "Get up to 50% off on all summer fashion items. Limited time offer.",
+        "cta": "Shop Now",
+        "image": "/images/banner1.png",
+        "background": "light",
+        "template": "standard"
+      },
+      {
+        "id":2,
+        "title": "New Arrivals",
+        "description": "Discover our latest collection. Fresh styles just arrived!",
+        "cta": "Explore Now",
+        "image": "/images/banner3.png",
+        "background": "dark",
+        "template": "wide"
+      },
+      {
+        "id":3,
+        "title": "Back to School Essentials",
+        "description": "Gear up for the new school year with our top picks.",
+        "cta": "Shop Supplies",
+        "image": "/images/banner2.png",
+        "background": "light",
+        "template": "standard"
+      }
+    ]
+  }
+  
