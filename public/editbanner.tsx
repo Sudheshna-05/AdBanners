@@ -98,7 +98,7 @@ const EditBannerTemplateBs: React.FC<EditBannerTemplateBsProps> = ({ open, banne
           />
           </DialogContent>
           <DialogActions>
-          <Button onClick={onclose} color="primary">Cancle</Button>
+          <Button onClick={onClose} color="primary">Cancle</Button>
           <Button onClick={handleSave} variant="contained" color="primary">
             Save
           </Button>
