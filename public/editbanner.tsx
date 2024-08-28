@@ -45,7 +45,7 @@ const EditBannerTemplateBs: React.FC<EditBannerTemplateBsProps> = ({ open, banne
   };
 
   return (
-    <Dialog open={open} onClose={onclose}>
+    <Dialog open={open} onClose={onClose}>
       <DialogTitle>Edit Banner</DialogTitle>
       <DialogContent>
           <TextField
